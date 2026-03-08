@@ -1,0 +1,6 @@
+Doc-Genie/
+│
+├── doc_genie.py
+├── requirements.txt
+├── sample_function.py
+└── README.md
