@@ -1,0 +1,27 @@
+# =====================================================
+# Doc-Genie v2.0
+# Python Function Docstring Generator
+# =====================================================
+# This file lists the Python dependencies required to
+# run the Doc-Genie application.
+
+# -----------------------------------------------------
+# Gradio
+# Used to create the interactive web interface for the
+# application (UI components, buttons, file upload, etc.)
+# -----------------------------------------------------
+gradio>=4.0.0
+
+# -----------------------------------------------------
+# ReportLab
+# Used to generate downloadable PDF documentation files
+# from the generated docstrings.
+# -----------------------------------------------------
+reportlab>=4.0.0
+
+# -----------------------------------------------------
+# Requests
+# Used to generate and handle shareable links
+# (WhatsApp / Facebook sharing functionality).
+# -----------------------------------------------------
+requests>=2.31.0
